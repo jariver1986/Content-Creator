@@ -1,5 +1,7 @@
 # Content-Creator
 Uso de IA para creación de contenido
+Fuente: https://www.youtube.com/watch?v=3AW-NgkVDtA
+
 
 Content Writer: Si se especializa en escribir artículos, blogs, guiones, etc.
 Video Content Creator: Si se enfoca en la creación de videos.
@@ -11,4 +13,7 @@ Influencer: Si tiene una audiencia grande y genera contenido en redes sociales c
 https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli
 
 ![image](https://github.com/user-attachments/assets/8a09b55c-a4c6-4288-90c5-f7e56fd86995)
+
+# Obtener resumen de contenido en un docuemnto de word con GPT
+![image](https://github.com/user-attachments/assets/13d7c465-3863-47cf-9515-27f89de53fe4)
 
