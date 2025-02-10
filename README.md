@@ -17,3 +17,19 @@ https://chromewebstore.google.com/detail/youtube-summary-with-chat/nmmicjeknamkf
 # Obtener resumen de contenido en un docuemnto de word con GPT
 ![image](https://github.com/user-attachments/assets/13d7c465-3863-47cf-9515-27f89de53fe4)
 
+# Hacer libreto para "instagram" o alguna red social. Ver archivo de word de contenido obtenido y el formato dato.
+
+# Hacer de texto a voz con esta IA y descargarlo
+https://elevenlabs.io/
+
+![image](https://github.com/user-attachments/assets/ebd17912-d96e-4cc6-aab0-9a436789cfd7)
+
+# Crear un nuevo diseño en Canva y en elementos buscar los videos cortos que se necesitan.
+https://www.canva.com/
+
+![image](https://github.com/user-attachments/assets/cce0b282-4307-4ba4-8343-d716a1f87674)
+
+# Subir en canva el audio descargado por elevenlabs(Arrastar el audio a la ventana de canvas)
+
+
+
