@@ -31,5 +31,11 @@ https://www.canva.com/
 
 # Subir en canva el audio descargado por elevenlabs(Arrastar el audio a la ventana de canvas)
 
+Link final 
+
+https://www.canva.com/design/DAGevCnOkAg/9fX2l-cx6QmYXyi6qQa51A/watch?utm_content=DAGevCnOkAg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2b9ba8ae1
+
+
+
 
 
